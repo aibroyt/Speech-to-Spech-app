@@ -1,8 +1,0 @@
-streamlit
-torchaudio
-scipy
-numpy
-transformers
-torch
-tts
-bark
